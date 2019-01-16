@@ -1,0 +1,10 @@
+= 配置
+:hardbreaks:
+
+== 1. 复制路径快捷键
+----
+[Shortcuts]
+C+1=cm_CopySrcPathToClip
+C+2=cm_CopyNamesToClip
+C+3=cm_CopyFullNamesToClip
+----
