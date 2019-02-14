@@ -37,3 +37,7 @@ libre-office
 sudo apt-get install ibus-rime
 # 8. smplayer 中文乱码
 选项—首选项—字幕—字幕，将默认字幕编码改为简体中文(CP936)
+
+# 9. firefox 
+## 9.1 扩展
+Decentraleyes: 访问 stackoverflow
