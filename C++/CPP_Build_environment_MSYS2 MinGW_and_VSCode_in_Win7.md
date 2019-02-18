@@ -139,7 +139,7 @@ tasks.json
 }
 ```
 
-### 4. 编译
+## 4. 编译
 **快捷键：ctrl+shift+B**
 
 **鼠标的用法：**
@@ -147,7 +147,7 @@ tasks.json
 再Terminal -- Run Task -- g++ -- Continue...
 Terminal 中会有编译成功的消息。
 
-### 5. 运行 F5
+## 5. 运行 F5
 会出现输出结果 
 C++17
 
