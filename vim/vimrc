@@ -1,0 +1,12 @@
+set number
+set hlsearch
+set tabstop=4
+set expandtab
+set softtabstop=4
+set shiftwidth=4
+set autoindent
+set listchars=tab:>-,trail:-,space:-
+filetype plugin on
+let g:vim_markdown_folding_disabled = 1
+let g:vim_markdown_toc_autofit = 1
+

@@ -12,6 +12,10 @@ cd ~/vimfiles
 tar --strip=1 -zxf /path/to/vim-markdown-master.tar.gz
 ```
 ## 2. Configure
+### 2.0  打开 markdown 文件的识别
+```vim
+filetype plugin on
+```
 ### 2.1 禁止自动折叠
 ```vim
 let g:vim_markdown_folding_disabled = 1
