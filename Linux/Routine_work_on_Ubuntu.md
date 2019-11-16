@@ -41,3 +41,7 @@ sudo apt-get install ibus-rime
 # 9. firefox 
 ## 9.1 扩展
 Decentraleyes: 访问 stackoverflow
+
+# 10. fonts
+## 10.1 times new roman && arial
+https://www.jianshu.com/p/47ae8375d124
