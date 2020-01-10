@@ -1,14 +1,19 @@
+set encoding=utf-8
+syntax on
 set number
 set hlsearch
 set tabstop=4
 set expandtab
 set softtabstop=4
 set shiftwidth=4
+set backupdir=e:\vim_backup
+set undodir=e:\vim_backup
 set autoindent
 set listchars=tab:>-,trail:-,space:-
 filetype plugin on
 let g:vim_markdown_folding_disabled = 1
 let g:vim_markdown_toc_autofit = 1
-
+set guifont=DejaVu_Sans_Mono:h10
+set guifontwide=KaiXinSong:h10
 nmap <c-c> "+y
 nmap <c-v> "+p
