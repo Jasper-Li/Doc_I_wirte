@@ -29,5 +29,6 @@ let g:vim_markdown_toc_autofit = 1
 set guifont=DejaVu_Sans_Mono:h10
 set guifontwide=KaiXinSong:h10
 colorscheme evening
-set backspace=indent,eol
+set backspace=2
+set backspace=indent,eol,start
 set ff=unix
