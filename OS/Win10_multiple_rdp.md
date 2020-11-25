@@ -9,6 +9,7 @@ https://github.com/stascorp/rdpwrap/releases/tag/v1.6.2
 在 RDPConf.exe 中应为 full supported.
 * 问题 win 10 版本更新, not supported
 在 issue https://github.com/stascorp/rdpwrap/issues 中搜索版本号 
+10.0.18336.657
 10.0.18362.267，找到解决方案
 更新了这个 ini 文件后，重启，可多用户。
 
